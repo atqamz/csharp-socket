@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XNtXj/n7LuPjuE7mlWku8DN6h6GPM7bsad5nBpDN7yIHne/QArpOUyTkOzc9421oJUb92z5jOMGzKyd5C5omNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\atqam\\Documents\\repo\\c#\\masFahmi\\server\\server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atqam\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

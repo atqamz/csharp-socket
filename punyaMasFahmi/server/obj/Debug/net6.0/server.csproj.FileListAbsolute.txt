@@ -1,0 +1,17 @@
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\bin\Debug\net6.0\server.exe
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\bin\Debug\net6.0\server.deps.json
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\bin\Debug\net6.0\server.runtimeconfig.json
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\bin\Debug\net6.0\server.dll
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\bin\Debug\net6.0\server.pdb
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\obj\Debug\net6.0\server.dll
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\obj\Debug\net6.0\refint\server.dll
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\obj\Debug\net6.0\server.pdb
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\obj\Debug\net6.0\ref\server.dll
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\atqam\Documents\repo\c#\masFahmi\server\obj\Debug\net6.0\server.csproj.CopyComplete

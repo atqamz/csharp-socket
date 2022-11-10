@@ -1,0 +1,17 @@
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\bin\Debug\net6.0\client.exe
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\bin\Debug\net6.0\client.deps.json
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\bin\Debug\net6.0\client.runtimeconfig.json
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\bin\Debug\net6.0\client.dll
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\bin\Debug\net6.0\client.pdb
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\obj\Debug\net6.0\client.csproj.AssemblyReference.cache
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\obj\Debug\net6.0\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\obj\Debug\net6.0\client.AssemblyInfoInputs.cache
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\obj\Debug\net6.0\client.AssemblyInfo.cs
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\obj\Debug\net6.0\client.csproj.CoreCompileInputs.cache
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\obj\Debug\net6.0\client.dll
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\obj\Debug\net6.0\refint\client.dll
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\obj\Debug\net6.0\client.pdb
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\obj\Debug\net6.0\client.genruntimeconfig.cache
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\obj\Debug\net6.0\ref\client.dll
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\atqam\Documents\repo\c#\masFahmi\client\obj\Debug\net6.0\client.csproj.CopyComplete
